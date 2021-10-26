@@ -25,4 +25,5 @@ This repository contains code used for plots in NeurIPS 2021 paper 'Stochastic M
 
 
 ### How to Run?
-    To generate any figure used in the code, run 'python file_name.py' where file_name corresponds to the python file of figure. Ensures all dependencies met before running the code.
+    To generate any figure used in the code, run 'python file_name.py' where file_name corresponds to the python file of figure. 
+    Ensures all dependencies met before running the code.
