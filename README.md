@@ -18,7 +18,9 @@ This repository contains code used for plots in NeurIPS 2021 paper 'Stochastic M
     7. figure3a.py: This file contains code used for generating the 'Figure 3 (a)' in the paper.
     8. figure3b.py: This file contains code used for generating the 'Figure 3 (b)' in the paper.
     9. figure3c.py: This file contains code used for generating the 'Figure 3 (c)' in the paper.
-
+    10. figure4a.py: This file contains code used for generating the 'Figure 4 (a)' in the paper.
+    11. figure4b.py: This file contains code used for generating the 'Figure 4 (b)' in the paper.
+    12. figure4c.py: This file contains code used for generating the 'Figure 4 (c)' in the paper.
 
 ### Directories:
     1. plots: This directory contains plots generated after running different python files. 
